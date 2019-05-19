@@ -1,0 +1,10 @@
+{
+    "files": {
+        "index.js": "6532212af44e553d3981afaacb7abf49b2fe3a8deba7ecf793e03dc26d00bf86",
+        "module.json": "b93485da59c15d0f3d9a342c87c73d4110545294b174766396ff11e734f17cab"
+    },
+    "defs": {
+        "S_REGISTER_ENCHANT_ITEM": 2,
+        "S_REGISTER_EVOLUTION_ITEM": 2
+    }
+}

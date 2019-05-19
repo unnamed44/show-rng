@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "show-rng",
+    "author": "LLoyd",
+    "description": "Displays RNG on Halidom/Relics",
+    "version": "1.0",
+    "options": {
+        "niceName": "Show RNG"
+    },
+    "servers": ["https://raw.githubusercontent.com/LLoyderino/show-rng/master/"],
+    "supportUrl": "https://github.com/LLoyderino/show-rng/issues/"
+}
